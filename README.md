@@ -7,3 +7,4 @@ Models' design for various types of applications
 - [Restaurant picker](model-schema-design/Restaurantpicker)
 - [Food Delivery](model-schema-design/Fooddelivery)
 - [Social network with follow system](model-schema-design/Socialnetworkwithfollow)
+- [Notification](model-schema-design/Notification)
