@@ -16,3 +16,12 @@ Models' design for various types of applications
 - [Notification](model-schema-design/Notification):
   - Model schema for a notification system to indicate when user likes or comment.
  
+# Diving deep into request:
+Understanding the ins and outs of 'request' in django
+- ## request methods
+  - [request.GET](diving-deepinto-request/Requestdeepunderstanding/)
+  - [request.POST](diving-deepinto-request/Requestdeepunderstanding/)
+  - [request.GET.get](diving-deepinto-request/Requestdeepunderstanding/)
+  - [request.POST.get](diving-deepinto-request/Requestdeepunderstanding/)
+  - [request.GET[argument]](diving-deepinto-request/Requestdeepunderstanding/)
+  - [request.POST[argument]](diving-deepinto-request/Requestdeepunderstanding/)
