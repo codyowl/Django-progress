@@ -5,6 +5,7 @@ urlpatterns = [
     # Examples:
     # url(r'^$', 'Requestdeepunderstanding.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
-
+    url(r'^understanding-request/', include('understanding_request.urls')),
     url(r'^admin/', include(admin.site.urls)),
+
 ]
