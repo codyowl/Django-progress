@@ -29,3 +29,5 @@ Understanding the ins and outs of 'request' in django
 # Diving deep into Ajax call:
 Understanding the ins and outs of 'Ajax request' in django
 - [Steps for making a simple ajax call with django](ajax-call/Ajaxcall/)
+
+# Diving deep into forms:
